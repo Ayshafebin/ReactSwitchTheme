@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+
+.white{
+    height: 100vh;
+    width: 100%;
+    color: #282c32;
+    background-color: white;
+}
+
+.dark{
+    height: 100vh;
+    width: 100%;
+    color: white;
+    background-color: #282c32;
+}
+
+.theme-button{
+    color: white;
+    background-color: #282c32;
+    border-radius: 22px;
+}
